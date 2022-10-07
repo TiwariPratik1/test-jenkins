@@ -23,6 +23,7 @@ public class LoginTest {
 		System.out.println("test started");
 		Assert.assertTrue(true);
 		System.out.println("test ended");
+		System.out.println("test ended");
 	}
 
 }

@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-04T12:12:50 IST" name="Default suite" finished-at="2022-10-04T12:12:50 IST" duration-ms="61">
+  <suite started-at="2022-10-07T13:38:04 IST" name="Default suite" finished-at="2022-10-07T13:38:04 IST" duration-ms="101">
     <groups>
     </groups>
-    <test started-at="2022-10-04T12:12:50 IST" name="Default test" finished-at="2022-10-04T12:12:50 IST" duration-ms="61">
+    <test started-at="2022-10-07T13:38:04 IST" name="Default test" finished-at="2022-10-07T13:38:04 IST" duration-ms="101">
       <class name="sampleTestCases.LoginTest">
-        <test-method signature="verifyLoginWithCredentials()[pri:0, instance:sampleTestCases.LoginTest@6d4e5011]" started-at="2022-10-04T12:12:50 IST" name="verifyLoginWithCredentials" finished-at="2022-10-04T12:12:50 IST" duration-ms="11" status="PASS">
+        <test-method signature="verifyLoginWithCredentials()[pri:0, instance:sampleTestCases.LoginTest@505fc5a4]" started-at="2022-10-07T13:38:04 IST" name="verifyLoginWithCredentials" finished-at="2022-10-07T13:38:04 IST" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithCredentials -->
-        <test-method signature="verifyLoginWithInvalidCredentials()[pri:0, instance:sampleTestCases.LoginTest@6d4e5011]" started-at="2022-10-04T12:12:50 IST" name="verifyLoginWithInvalidCredentials" finished-at="2022-10-04T12:12:50 IST" duration-ms="1" status="PASS">
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:0, instance:sampleTestCases.LoginTest@505fc5a4]" started-at="2022-10-07T13:38:04 IST" name="verifyLoginWithInvalidCredentials" finished-at="2022-10-07T13:38:04 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithInvalidCredentials -->
-        <test-method signature="verifyLoginWithNoCredentials()[pri:0, instance:sampleTestCases.LoginTest@6d4e5011]" started-at="2022-10-04T12:12:50 IST" name="verifyLoginWithNoCredentials" finished-at="2022-10-04T12:12:50 IST" duration-ms="1" status="PASS">
+        <test-method signature="verifyLoginWithNoCredentials()[pri:0, instance:sampleTestCases.LoginTest@505fc5a4]" started-at="2022-10-07T13:38:04 IST" name="verifyLoginWithNoCredentials" finished-at="2022-10-07T13:38:04 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithNoCredentials -->
